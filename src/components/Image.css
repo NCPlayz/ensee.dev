@@ -1,0 +1,12 @@
+.hidden {
+  opacity: 0;
+}
+
+.imageDiv {
+  position: relative;
+  margin: 0 auto;
+}
+
+.mainImage {
+  transition: opacity 0.5s;
+}
