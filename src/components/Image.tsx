@@ -6,7 +6,7 @@ import "./Image.css";
 
 const images: string[] = [
   "https://cdn.discordapp.com/avatars/69198249432449024/04cb6ce4f2dd3788b8b738d37745c645.png?size=1024",
-  "https://cdn.discordapp.com/avatars/121678432504512512/b7bca1216cc42f6e6587da5a96c3a65d.png?size=1024",
+  "https://cdn.discordapp.com/avatars/121678432504512512/4aa155196579d7de5453aef235f7adec.png?size=1024",
   "https://cdn.discordapp.com/avatars/209270029290569740/6e64e28a66bcf17d5bcd6e59aeecdc38.png?size=1024",
   "https://cdn.discordapp.com/avatars/184385816066392064/52f844269c02e3b3ff8528fe4546dc76.png?size=1024",
   "https://cdn.discordapp.com/avatars/80088516616269824/39ec2502115271c24eb969018fcd8b55.png?size=1024",
