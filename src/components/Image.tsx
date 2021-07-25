@@ -13,8 +13,7 @@ const images: string[] = [
   "https://cdn.discordapp.com/avatars/155863164544614402/5239945f1480c3384f1c5cf2452d465c.png?size=1024",
   "https://cdn.discordapp.com/avatars/318731657861398531/b1f433ffe3962b89fdc796a0ba272e87.png?size=1024",
   "https://cdn.discordapp.com/avatars/106429844627169280/a_5981d65209d78b8bf28fc47fb1bb9336.gif?size=1024",
-  "https://cdn.discordapp.com/avatars/238356301439041536/d3709c1b5ba876397dbd2b289936b05a.png?size=1024",
-  "https://cdn.discordapp.com/avatars/491174779278065689/6f2a16eeb9c990980905fa11c56858d5.png?size=1024",
+  "https://cdn.discordapp.com/avatars/832740154753941506/bacf236f891bfddff787ef00a4a8861e.png?size=1024",
 ];
 
 export default function Image() {
