@@ -16,6 +16,7 @@ const images: string[] = [
   "https://cdn.discordapp.com/avatars/238356301439041536/d3709c1b5ba876397dbd2b289936b05a.png?size=1024",
   "https://cdn.discordapp.com/avatars/832740154753941506/bacf236f891bfddff787ef00a4a8861e.png?size=1024",
   "https://cdn.discordapp.com/avatars/342244480709296139/3245b114b2eca7030cf1d244837bd638.png?size=1024",
+  "https://cdn.discordapp.com/avatars/693987130036453398/93ba4491e4389673930eda7f30d67805.png?size=1024",
 ];
 
 export default function Image() {
